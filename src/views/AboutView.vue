@@ -94,10 +94,10 @@ export default {
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
             &nbsp; &nbsp; &nbsp; My name is Ganendra Jawa Ramadhan, and I'm a student at SMK Telkom Sidoarjo who is passionate about learning and growing as a software developer.
 
-For me, coding is not just about writing lines of code—it's about solving problems, creating something meaningful, and continuously improving. I love exploring new technologies and challenging myself to build applications that are both functional and user-friendly.
+For me, coding is not just about writing lines of code, it's about solving problems, creating something meaningful, and continuously improving. I love exploring new technologies and challenging myself to build applications that are both functional and user-friendly.
           </p>
           <p class="mb-3 fadein-left fadeins-2">
-            &nbsp; &nbsp; &nbsp; Right now, I'm focused on honing my skills in web and software development, always looking for opportunities to learn and collaborate. My goal is to become a skilled developer who can create innovative solutions and contribute to the tech industry. 🚀
+            &nbsp; &nbsp; &nbsp; Right now, I'm focused on honing my skills in web and software development, always looking for opportunities to learn and collaborate. My goal is to become a skilled developer who can create innovative solutions and contribute to the tech industry.
           </p>
         </div>
 

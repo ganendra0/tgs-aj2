@@ -64,6 +64,13 @@ export default {
           status: 'Developed an IoT-based water quality monitoring system for seaweed farming ',
           tech: 'PHP, Javascript',
         },
+        {
+          id:7,
+          name: 'Tube Thickness Measurement',
+          imageUrl: web6,
+          status: 'Develops an IoT-based system to measure tube thickness for pharmaceutical packaging quality control. The device records real-time measurements automatically into a spreadsheet.',
+          tech: 'PHP, Javascript',
+        },
       ],
       certificates: [
         {
